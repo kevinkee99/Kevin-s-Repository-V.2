@@ -6,4 +6,4 @@
 > 2. create a test function to compare if the actual result is the same as the expected result.
 Click [here](https://github.com/kevinkee99/Kevin-s-Repository-V.2/blob/d821d835efeae36b782b68344d18173a3872fee9/reverse_list.py) to open the Python file.
 
-To go back to the home page, click [here](https://github.com/kevinkee99/Kevin-s-Repository-V.2/blob/f6ca9127fb46574f385abf561be08f791030926f/README.md).
+To go back to the home page, click [here](README.md).
