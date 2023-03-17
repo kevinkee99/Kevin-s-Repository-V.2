@@ -7,4 +7,4 @@
 
 Click [here](https://github.com/kevinkee99/Kevin-s-Repository-V.2/blob/50abcf812b65844ab9624095bd19bd6d260b7136/fizzbuzz.html) to open the javaScript file.
 
-To go back to the home page, click [here](https://github.com/kevinkee99/Kevin-s-Repository-V.2/blob/f6ca9127fb46574f385abf561be08f791030926f/README.md).
+To go back to the home page, click [here](README.md).
