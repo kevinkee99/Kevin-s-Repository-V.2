@@ -6,4 +6,5 @@
 > 3. Print the corresponding information.  
 
 Click [here](https://github.com/kevinkee99/Kevin-s-Repository-V.2/blob/fd62112d897d3f682bd9c909824f36323175b131/interstatehighway_interactive_function.py) to open the Python file.
-To go to the home page, click here.
+
+To go back to the home page, click here.
